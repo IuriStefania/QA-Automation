@@ -1,0 +1,17 @@
+{
+  "Gmail":[
+      {
+        "mail":"sep.test092024@gmail.com",
+        "password":"testaccount2024",
+        "pageGmail":"https://mail.google.com/",
+        "passwordWrong": "incorrecta"
+      }
+    ]
+  ,
+  "Ebay": [
+      {
+        "search":"Electric Guitar",
+        "pageEbay":"https://ar.ebay.com/"
+      }
+  ]
+}
